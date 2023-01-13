@@ -1,7 +1,7 @@
-# Carlos Silva's Portfolio
-
  ![](https://img.shields.io/badge/Microverse-blueviolet)
 <a name="readme-top"></a>
+
+# Carlos Silva's Portfolio
 
 # 📗 Table of Contents
 
