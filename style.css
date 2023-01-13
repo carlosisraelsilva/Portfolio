@@ -1,0 +1,102 @@
+
+body {
+  font-family: "Poppins", sans-serif;
+  padding: 0%;
+  margin: 0;
+}
+
+.first-sector {
+  height: auto;
+  width: 100%;
+  min-height: 100vh;
+  border-radius: 0.25rem;
+}
+
+.main {
+  padding: 0 20px;
+}
+
+.header-comtainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.my-logo {
+  width: 76px;
+  height: 20px;
+  font-style: normal;
+  color: #6070ff;
+  font-size: 18px;
+  line-height: 20px;
+  padding-top: 10px;
+  font-weight: 700;
+  padding-left: 12px;
+}
+
+.nav-bar {
+  position: absolute;
+  right: 12px;
+}
+
+/* content */
+
+.content {
+  background: url(images/header-shapes\ mobile@2x.svg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+.my-name {
+  width: 920;
+  font-family: 'Poppins', sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  margin-bottom: 10px;
+  letter-spacing: 0.37px;
+  padding-top: 100px;
+  color: #091e42;
+  flex: 1;
+}
+
+.my-work {
+  font-size: 16px;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.connect {
+  font-size: 16px;
+  margin-bottom: 5px;
+  color: #7f8cff;
+  text-align: left;
+  font-weight: 500;
+}
+
+.icons {
+  width: 50%;
+  height: 10%;
+  margin-bottom: 5px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  list-style: none;
+  padding-left: 0%;
+}
+
+.icons li {
+  margin-right: 5%;
+}
+
+.icons li a {
+  flex: none;
+  flex-grow: 0;
+}
