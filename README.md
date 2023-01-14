@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
+
 # Carlos Silva's Portfolio
 
  ![](https://img.shields.io/badge/Microverse-blueviolet)
@@ -74,31 +77,28 @@ The goal of this project is to create a personal portfolio website where people 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+Before we begin, please make sure you are motivated and ready to embark on this journey. Let's get started!
 
-### Prerequisites
+### 1 - Install the Git
 
-In order to run this project you need to Instal the GitHub On your PC 
+First, you'll need to have git installed on your computer. You can donload it from the offical website: https://git-scm.com.
 
+### 2 - Open the terminal window
 
-### Setup
+Once you have the Git, open the terminal window and navigate to the diretory where you want to clone the repository.
 
-Clone this repository to your desired folder
+### 3 - Clone the Repository 
 
+Next, run the following command on your terminal to clone the repository: git clone https://github.com/carlosisraelsilva/Portfolio. and Wait for the cloning process to complete.
 
-### Install
+### 4 - Make your own changes to the code 
 
-Get a local copy up 
+Once the cloning process is complete, navigate into the newly created directory by running cd yourportfolio. Make the changes you want on the code.
 
-### Usage
+### 5 - Push your changes to the original repository
 
-Run it locally using npm
-
-
-### Run tests
-
-To run tests, update github on your browser 
-
+Congratulations! You can now push your changes back to the original repository by forking the repository first and then creating a pull request.
+I hope you had as much fun as I did.
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -132,5 +132,4 @@ I am extremely grateful to my coding partners and the supportive community at Mi
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
+This project is [MIT](https://github.com/carlosisraelsilva/Portfolio/blob/main/LICENSE) licensed.

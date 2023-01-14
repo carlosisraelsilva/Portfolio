@@ -5,85 +5,87 @@ body {
   margin: 0;
 }
 
-.first-sector {
+header {
   height: auto;
   width: 100%;
-  min-height: 100vh;
   border-radius: 0.25rem;
-}
-
-.main {
-  padding: 0 20px;
-}
-
-.header-comtainer {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: white;
 }
 
-.header {
-  display: flex;
-  align-items: center;
-}
-
 .my-logo {
-  width: 76px;
-  height: 20px;
+  width: fit-content;
   font-style: normal;
   color: #6070ff;
   font-size: 18px;
   line-height: 20px;
-  padding-top: 10px;
+  text-align: center;
   font-weight: 700;
-  padding-left: 12px;
+  margin: 10px 12px;
+  text-decoration: none;
 }
 
 .nav-bar {
-  position: absolute;
-  right: 12px;
+  width: 18px;
+  height: 12px;
 }
+
+.menu-buttom {
+  margin: 6px 16px;
+  text-align: center;
+}
+
 
 /* content */
 
-.content {
+section {
   background: url(images/header-shapes\ mobile@2x.svg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: 100% auto;
+  padding: 0 20px;
 }
 
 .my-name {
-  width: 920;
+  width: 327;
+  height: 150;
   font-family: 'Poppins', sans-serif;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 52px;
   margin-bottom: 10px;
   letter-spacing: 0.37px;
   padding-top: 100px;
   color: #091e42;
-  flex: 1;
 }
 
 .my-work {
+  width: 327;
+  height: 146;
+  font-weight: 400;
+  line-height: 24px;
   font-size: 16px;
+  color: #344563;
   margin-bottom: 15px;
   text-align: left;
 }
 
 .connect {
+  width: 117;
+  height: 24px;
   font-size: 16px;
   margin-bottom: 5px;
   color: #7f8cff;
   text-align: left;
   font-weight: 500;
+  line-height: 24px;
 }
 
 .icons {
-  width: 50%;
-  height: 10%;
+  width: 100%;
+  height: 3%;
   margin-bottom: 5px;
   display: flex;
   justify-content: start;
