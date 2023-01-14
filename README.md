@@ -125,7 +125,7 @@ I hope you had as much fun as I did.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I am extremely grateful to my coding partners and the supportive community at Microverse School for their invaluable contributions and support throughout this project.
+I'm extremely grateful to my coding partners and the supportive community at Microverse School for their invaluable contributions and support throughout this project.
 
 ## 📝 License <a name="license"></a>
 
